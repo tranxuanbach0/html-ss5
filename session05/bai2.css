@@ -1,0 +1,9 @@
+*{
+    background-color: black;
+}
+h1{
+    color: whitesmoke;
+}
+p{
+    color: springgreen; text-decoration: underline dotted aqua; font-size: 30px; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
